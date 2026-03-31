@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title>DigitalExprt favicon</title>
+  <defs>
+    <linearGradient id="dx" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a3d" />
+      <stop offset="1" stop-color="#61f6d7" />
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="80" height="80" rx="22" fill="#09111d" stroke="url(#dx)" stroke-width="4" />
+  <path
+    d="M28 28h15c15.5 0 25 8.5 25 20S58.5 68 43 68H28V28Zm14 29c8.2 0 13.2-3.2 13.2-9S50.2 39 42 39h-4.5v18H42Zm22-29h4v40h-4V28Z"
+    fill="url(#dx)"
+  />
+</svg>
